@@ -32,7 +32,7 @@ emotion-backend/
 ### 1. Clone this repo
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/ayush123-bit/emotion-backend
 cd emotion-backend
 ```
 
